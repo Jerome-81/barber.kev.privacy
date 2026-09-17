@@ -1,9 +1,15 @@
-# Politique de confidentialité Barber Kev
+# Confidentialité et support Barber Kev
 
 Page statique prête pour GitHub Pages.
 
-Cette page précise que Barber Kev est un planning personnel, sans activité
-commerciale, sans paiement et sans prestation professionnelle.
+Cette page présente la confidentialité et le support de Barber Kev, une application
+de gestion de rendez-vous destinée à une communauté limitée de personnes connaissant
+Barber Kev ou découvrant l'application sur recommandation directe, sur leurs appareils
+personnels. L'application ne propose pas de paiement intégré.
+
+Ce positionnement correspond à la demande de distribution non répertoriée (Unlisted).
+La page ne présume pas de l'acceptation de cette demande par Apple.
+Le développeur est lscinformatique.fr ; le support renvoie vers son formulaire de contact.
 
 ## Publication GitHub Pages
 
@@ -13,3 +19,5 @@ commerciale, sans paiement et sans prestation professionnelle.
 4. Choisir `Deploy from a branch`.
 5. Sélectionner la branche principale et le dossier `/root`.
 6. Utiliser l'URL GitHub Pages générée dans App Store Connect comme URL de politique de confidentialité.
+
+Pour accéder directement à la section de support, ajouter `#support` à l’URL de la page.
